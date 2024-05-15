@@ -44,7 +44,7 @@ The following datasets are currently available for download:
 
    ### Step 3: Create a New Branch
 
-   Create a new branch for your data contribution:
+   1. Create a new branch for your data contribution:
       git checkout -b add-your-data
 
    ### Step 4: Add Your Data
@@ -63,11 +63,11 @@ The following datasets are currently available for download:
 
    ### Step 6: Push to Your Fork
 
-   Push your changes to your forked repository:
-   ```bash
-   git push origin add-your-data
+   1. Push your changes to your forked repository:
+      ```bash
+      git push origin add-your-data
 
-  ### Step 7: Open a Pull Request
+   ### Step 7: Open a Pull Request
    
    1. Go to your forked repository on GitHub.
    2. Click on the "Compare & pull request" button.
