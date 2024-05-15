@@ -1,5 +1,5 @@
 # Data for Days
-This repo is dedicated to sharing structured datasets from unstructured sources such as Wikipedia. This project aims to provide the community with diverse datasets curated from a variety of unstructured sources, enabling innovative research and development across multiple disciplines. 
+This repo is dedicated to bringing structure to unstructured sources in the form of data. This project aims to provide the data community with diverse datasets curated from a variety of unstructured sources not foudn anywhere else.
 
 ## Project Overview
 
