@@ -14,6 +14,8 @@ Each dataset in this repository was programmatically scraped from the internet. 
 
 ## How to Use This Repository
 
-1. **Clone the Repository:**
+1. **Download the Data:**
+  Each dataset is available for download as a .csv file.
+3. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/dataset-repo.git
