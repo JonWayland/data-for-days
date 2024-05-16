@@ -16,9 +16,9 @@ Each dataset in this repository was programmatically scraped from the internet. 
 ### Available Datasets
 
 The following datasets are currently available for download:
-- [American Desserts](https://github.com/JonWayland/data-for-days/blob/main/data/american_desserts_20240323.csv)  [[*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/american_desserts_20240323.txt)
-- [Country Music Hall of Fame](https://github.com/JonWayland/data-for-days/blob/main/data/country_hof_20240323.csv)  [[*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/country_hof_20240323.txt)
-- [Hurricanes](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.csv)  [[*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.txt)
+- [American Desserts](https://github.com/JonWayland/data-for-days/blob/main/data/american_desserts_20240323.csv)  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/american_desserts_20240323.txt)
+- [Country Music Hall of Fame](https://github.com/JonWayland/data-for-days/blob/main/data/country_hof_20240323.csv)  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/country_hof_20240323.txt)
+- [Hurricanes](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.csv)  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.txt)
 
 ## How to Use This Repository
 
