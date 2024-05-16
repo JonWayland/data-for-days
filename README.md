@@ -7,7 +7,7 @@ This repo is dedicated to bringing tabular structure to otherwise unstructured i
 
 ## Project Overview
 
-Unstructured data represents the vast majority of data available in the digital world, yet harnessing it meaningfully remains a challenge. This repository addresses this gap by providing carefully curated datasets that are (mostly) ready for analysis, machine learning models, and educational purposes. I hightly encourage others to contribute to **Data for Days**.
+Unstructured data represents the vast majority of data available in the digital world, yet harnessing it meaningfully remains a challenge. This repository addresses this gap by providing carefully curated datasets that are (mostly) ready for analysis, machine learning models, and educational purposes. I highly encourage others to contribute to **Data for Days**.
 
 ## The Data
 
