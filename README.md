@@ -17,8 +17,11 @@ Each dataset in this repository was programmatically scraped from the internet. 
 
 The following datasets are currently available for download:
 - [American Desserts](https://github.com/JonWayland/data-for-days/blob/main/data/american_desserts_20240323.csv)  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/american_desserts_20240323.txt)
+  - List of [American Desserts](https://en.wikipedia.org/wiki/List_of_American_desserts) and their respective ingredients in a comma-separated string
 - [Country Music Hall of Fame](https://github.com/JonWayland/data-for-days/blob/main/data/country_hof_20240323.csv)  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/country_hof_20240323.txt)
+  - List of [Country Music Hall of Fame Inductees](https://en.wikipedia.org/wiki/List_of_Country_Music_Hall_of_Fame_inductees) (1 row per individual), the year they were inducted, their birth date, and their date of death if applicable.
 - [Hurricanes](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.csv)  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.txt)
+  - List of all [US Hurricanes](https://en.wikipedia.org/wiki/List_of_United_States_hurricanes), their Saffir Simpson Category, the state they impacted, the date they formed, the date they became extra tropical, the date they dissipated, the number of estimated fatalities, and the estimated damage in USD
 
 ## How to Use This Repository
 
