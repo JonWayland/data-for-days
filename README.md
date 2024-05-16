@@ -23,10 +23,11 @@ The following datasets are currently available for download:
 - **[Hurricanes](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.csv)**  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.txt)
   - **Description:** List of all US Hurricanes, their Saffir Simpson Category, the state they impacted, the date they formed, the date they became extra tropical, the date they dissipated, the number of estimated fatalities, and the estimated damage in USD
 
-## How to Use This Repository
+### How to Use Data for Days
 
 1. **Download Data:**
-  Each dataset is available for download as a .csv file.
+  - Each dataset is available for download as a .csv file.
+  - Analyze it, build dashboards, create web apps, develop machine learning models, have fun with it!
 
 2. **Contribute Data:**
    I welcome contributions to our dataset repository! Please follow these steps to submit your data:
