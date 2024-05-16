@@ -19,9 +19,9 @@ Each dataset in this repository was programmatically scraped from the internet. 
 ### Available Datasets
 
 The following datasets are currently available for download:
-- American Desserts
-- Hurricanes
-- Country Music Hall of Fame
+- [American Desserts](https://github.com/JonWayland/data-for-days/blob/main/data/american_desserts_20240323.csv)
+- [Hurricanes](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.csv)
+- [Country Music Hall of Fame](https://github.com/JonWayland/data-for-days/blob/main/data/country_hof_20240323.csv)
 
 ## How to Use This Repository
 
