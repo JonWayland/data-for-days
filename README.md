@@ -1,5 +1,7 @@
 # Data for Days <a href="https://github.com/JonWayland/data-for-days"><img src="images/logo.png" align="right" height="140" /></a>
 
+**You won't find this data anywhere else!**
+
 This repo is dedicated to bringing tabular structure to otherwise unstructured information. It aims to provide the data science community with diverse datasets curated from a wide variety of domains and topics. All data created and subsequently shared in this repository has been programmatically scraped from the web and therefor may be imperfect. In other words, additional data cleansing may be required for your desired analysis and/or model.
 
 ## Project Overview
