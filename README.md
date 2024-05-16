@@ -1,13 +1,10 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>Data for Days</h1>
-  <img src="images/logo.png" alt="Description of image" style="height: 100px;">
-</div>
+# Data for Days <a href="https://github.com/JonWayland/data-for-days"><img src="images/logo.png" align="right" height="140" /></a>
 
 This repo is dedicated to bringing tabular structure to otherwise unstructured information. It aims to provide the data science community with diverse datasets curated from a wide variety of domains and topics. All data created and subsequently shared in this repository has been programmatically scraped from the web and therefor may be imperfect. In other words, additional data cleansing may be required for your desired analysis and/or model.
 
 ## Project Overview
 
-Unstructured data represents the vast majority of data available in the digital world, yet harnessing it meaningfully remains a challenge. This repository addresses this gap by providing carefully curated datasets that are (mostly) ready for analysis, machine learning models, and educational purposes. I hightly encourage others to contribute to **Data for Days**.
+Unstructured data represents the vast majority of data available in the digital world, yet harnessing it meaningfully remains a challenge. This repository addresses this gap by providing carefully curated datasets that are (mostly) ready for analysis, machine learning models, and educational purposes. I highly encourage others to contribute to **Data for Days**.
 
 ## The Data
 
@@ -19,9 +16,9 @@ Each dataset in this repository was programmatically scraped from the internet. 
 ### Available Datasets
 
 The following datasets are currently available for download:
-- American Desserts
-- Hurricanes
-- Country Music Hall of Fame
+- [American Desserts](https://github.com/JonWayland/data-for-days/blob/main/data/american_desserts_20240323.csv)  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/american_desserts_20240323.txt)
+- [Country Music Hall of Fame](https://github.com/JonWayland/data-for-days/blob/main/data/country_hof_20240323.csv)  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/country_hof_20240323.txt)
+- [Hurricanes](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.csv)  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.txt)
 
 ## How to Use This Repository
 
