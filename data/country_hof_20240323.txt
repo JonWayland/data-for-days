@@ -1,3 +1,0 @@
-Country Hall of Fame Data
-All data (unless otherwise noted) was structured from the following URL: https://en.wikipedia.org/wiki/List_of_Country_Music_Hall_of_Fame_inductees
-The data was structured on March 23, 2024

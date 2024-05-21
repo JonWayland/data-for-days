@@ -20,8 +20,8 @@ Each dataset in this repository was programmatically scraped from the internet. 
 The following datasets are currently available for download:
 - **[American Desserts](https://github.com/JonWayland/data-for-days/blob/main/data/american_desserts_20240323.csv)**  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/american_desserts_20240323.txt)
   - **Description:** List of American Desserts and their respective ingredients in a comma-separated string
-- **[Country Music Hall of Fame](https://github.com/JonWayland/data-for-days/blob/main/data/country_hof_20240323.csv)**  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/country_hof_20240323.txt)
-  - **Description:** List of Country Music Hall of Fame Inductees (1 row per individual), the year they were inducted, their birth date, and their date of death if applicable.
+- **[Country Music Hall of Fame](https://github.com/JonWayland/data-for-days/blob/main/data/country_hof_20240521.csv)**  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/country_hof_20240521.txt)
+  - **Description:** List of Country Music Hall of Fame Inductees (1 row per individual), the year they were inducted, their birth date, their date of death if applicable, current age or age at death, and living status.
 - **[Harry Potter](https://github.com/JonWayland/data-for-days/blob/main/data/harry_potter_20240521.csv)**  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/harry_potter_20240521.txt)
   - **Description:** List of all Harry Potter characters with a known surname, a description of the character, and any additional notes.
 - **[Hurricanes](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.csv)**  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.txt)
