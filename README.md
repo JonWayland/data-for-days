@@ -27,6 +27,15 @@ The following datasets are currently available for download:
 - **[Hurricanes](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.csv)**  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/hurricanes_20240507.txt)
   - **Description:** List of all US Hurricanes, their Saffir Simpson Category, the state they impacted, the date they formed, the date they became extra tropical, the date they dissipated, the number of estimated fatalities, and the estimated damage in USD
 
+#### Fictional Data for Fun
+
+The following data sets have been created to aid in demonstrating statistical and domain analytics. 
+
+- **[HP-Universal](https://github.com/JonWayland/data-for-days/blob/main/fdata/hp-universal.csv)**  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/fdata/hp-universal.txt)
+  - **Description:** Fictional population health dataset that contains chronic conditions, copay amounts, medical costs, risks, and copay plan amounts at the individual level. This data reflects what health insurance companies analyze in their advanced data departments.
+
+
+
 ### How to Use Data for Days
 
 1. **Download Data:**
