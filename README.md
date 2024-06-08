@@ -34,7 +34,8 @@ The following data sets have been created to aid in demonstrating statistical an
 - **[HP-Universal](https://github.com/JonWayland/data-for-days/blob/main/fdata/hp-universal.csv)**  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/fdata/hp-universal.txt)
   - **Description:** Fictional population health dataset that contains chronic conditions, copay amounts, medical costs, risks, and copay plan amounts at the individual level. This data reflects what health insurance companies analyze in their advanced data departments.
 
-
+- **[ER Data](https://github.com/JonWayland/data-for-days/blob/main/fdata/ER_Data.csv)**  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/fdata/ER_Data.txt)
+  - **Description:** Fictional healthcare dataset that includes ER utilization, cost percentile, member ID, and subsequent severity level.
 
 ### How to Use Data for Days
 
