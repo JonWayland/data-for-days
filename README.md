@@ -17,6 +17,8 @@ Each dataset in this repository was programmatically scraped from the internet. 
 
 ### Available Datasets
 
+#### Scraped Data
+
 The following datasets are currently available for download:
 - **[American Desserts](https://github.com/JonWayland/data-for-days/blob/main/data/american_desserts_20240323.csv)**  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/data/american_desserts_20240323.txt)
   - **Description:** List of American Desserts and their respective ingredients in a comma-separated string
