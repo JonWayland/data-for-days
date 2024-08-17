@@ -8,7 +8,7 @@ This repo is dedicated to bringing tabular structure to otherwise unstructured i
 
 Unstructured data represents the vast majority of data available in the digital world, yet harnessing it meaningfully remains a challenge. This repository addresses this gap by providing carefully curated datasets that are (mostly) ready for analysis, machine learning models, and educational purposes. I highly encourage others to contribute to **Data for Days**.
 
-## The Data
+## ✦ ✧ ✦ The Data ✦ ✧ ✦
 
 Each dataset in this repository was programmatically scraped from the internet. For each set of data, the following files are provided:
 
@@ -38,6 +38,11 @@ The following data sets have been created to aid in demonstrating statistical an
 
 - **[ER Data](https://github.com/JonWayland/data-for-days/blob/main/fdata/ER_Data.csv)**  [[...*Metadata*]](https://github.com/JonWayland/data-for-days/blob/main/fdata/ER_Data.txt)
   - **Description:** Fictional healthcare dataset that includes ER utilization, cost percentile, member ID, and subsequent severity level.
+
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ### How to Use Data for Days
 
